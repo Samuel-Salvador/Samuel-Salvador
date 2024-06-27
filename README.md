@@ -1,8 +1,8 @@
 ## Hey there 👋
-:mortar_board: I'm a computer science student at UNESPAR.
-:video_game: And gaming enthusiast.
+# :mortar_board: I'm a computer science student at UNESPAR.
+# :video_game: And gaming enthusiast.
 
-## Estou aprendendo
+## Learning
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 
