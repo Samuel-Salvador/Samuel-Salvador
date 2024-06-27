@@ -1,6 +1,6 @@
 ## Hey there 👋
-# :mortar_board: I'm a computer science student at UNESPAR.
-# :video_game: And gaming enthusiast.
+\n:mortar_board: I'm a computer science student at UNESPAR.
+\n :video_game: And gaming enthusiast.
 
 ## Learning
 
