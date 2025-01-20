@@ -14,7 +14,7 @@
 
 <div>
 <a href = "mailto:samuel20018@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/samuel20018@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/samuel-salvador" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-samuel--salvador-%230077B5?style=for-the-badge&logo=inspire&logoColor=white" style="border-radius: 4px"></a>
+<a href="https://www.linkedin.com/in/samuel-salvador" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-samuel--salvador-%230077B5?style=for-the-badge&logo=inspire&logoColor=white" style="border-radius: 4px;"></a>
 
 
 
