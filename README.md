@@ -20,7 +20,7 @@
 ---
 
 <div>
-<a href="https://github.com/Samuel-Salvador">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Salvador&layout=compact)
+
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Samuel-Salvador&layout=compact&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Samuel-Salvador&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
