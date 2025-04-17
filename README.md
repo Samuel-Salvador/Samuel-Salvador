@@ -1,7 +1,5 @@
 :mortar_board: I'm a computer science student at UNESPAR.
 
-:video_game: And gaming enthusiast.
-
 ---
 #### Learning:
 
