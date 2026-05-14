@@ -15,17 +15,8 @@
 #### Contact info:
 
 <div>
-<a href = "mailto:samuel20018@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/samuel20018@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/samuel-salvador" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-samuel--salvador-%230077B5?style=for-the-badge&logo=inspire&logoColor=white"></a>
-
-
-
+  <a href = "mailto:samuel20018@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/samuel20018@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/samuel-salvador" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-samuel--salvador-%230077B5?style=for-the-badge&logo=inspire&logoColor=white"></a>
 </div>
 
 ---
-
-<div>
-
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Salvador&layout=compact&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Samuel-Salvador&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
